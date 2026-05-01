@@ -3,4 +3,4 @@
 <h4>BADS6003</h4>
 finding avaliable parking
 
-https://punikaamorn.github.io/BADS6003/map.html
+https://punikaamorn.github.io/findSingaporeCarParkingDemo/map.html
